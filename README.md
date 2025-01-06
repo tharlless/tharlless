@@ -10,7 +10,9 @@ Sou uma desenvolvedora apaixonada por tecnologia e inovação. Adoro aprender no
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
@@ -18,9 +20,8 @@ Sou uma desenvolvedora apaixonada por tecnologia e inovação. Adoro aprender no
 
 ## Contato
 
-- [LinkedIn](https://www.linkedin.com/in/seu-usuario)
+- [LinkedIn](https://www.linkedin.com/in/tharlles-dos-santos-camargos-507408279/)
 - [Email](mailto:tharllestsc@gmail.com)
 - [telefone](telefone:+55(85)998219145)
-
 
 Obrigado por visitar meu perfil!
