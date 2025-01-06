@@ -1,67 +1,24 @@
-# Nome do Projeto
+# Olá, eu sou a Francisca! 👋
 
-Descrição curta do projeto.
+Bem-vindo ao meu perfil do GitHub! Aqui você encontrará informações sobre os projetos em que estou trabalhando e as tecnologias que utilizo.
 
-## Instalação
+## Sobre Mim
 
-Instruções de instalação:
+Sou uma desenvolvedora apaixonada por tecnologia e inovação. Adoro aprender novas linguagens de programação e trabalhar em projetos desafiadores.
 
-```bash
-# Clone o repositório
-git clone https://github.com/seu-usuario/seu-repositorio.git
+## Linguagens e Ferramentas
 
-# Navegue até o diretório do projeto
-cd seu-repositorio
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
-# Instale as dependências
-npm install
-```
+## Contato
 
-## Uso
+- [LinkedIn](https://www.linkedin.com/in/seu-usuario)
+- [Email](mailto:seu-email@exemplo.com)
 
-Exemplo de uso:
-
-```javascript
-// ...exemplo de código...
-```
-
-## Imagens
-
-Você pode adicionar imagens ao seu README assim:
-
-![Descrição da imagem](url-da-imagem)
-
-## Textos Coloridos
-
-Para adicionar textos coloridos, você pode usar HTML:
-
-<span style="color:blue">Este é um texto azul.</span>
-
-## Linguagens de Programação
-
-Você pode destacar o código em diferentes linguagens de programação:
-
-```python
-def hello_world():
-    print("Hello, world!")
-```
-
-## Gráficos
-
-Para adicionar gráficos, você pode usar serviços como o [Mermaid](https://mermaid-js.github.io/mermaid/#/) para criar diagramas e gráficos:
-
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
-
-## Contribuição
-
-Por favor, leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para detalhes sobre o nosso código de conduta e o processo de envio de pull requests.
-
-## Licença
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Obrigado por visitar meu perfil!
