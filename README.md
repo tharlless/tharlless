@@ -1,4 +1,4 @@
-# Olá, eu sou a Francisca! 👋
+# Olá, eu sou a Tharlles dos Santos Camargos! 👋
 
 Bem-vindo ao meu perfil do GitHub! Aqui você encontrará informações sobre os projetos em que estou trabalhando e as tecnologias que utilizo.
 
@@ -19,6 +19,8 @@ Sou uma desenvolvedora apaixonada por tecnologia e inovação. Adoro aprender no
 ## Contato
 
 - [LinkedIn](https://www.linkedin.com/in/seu-usuario)
-- [Email](mailto:seu-email@exemplo.com)
+- [Email](mailto:tharllestsc@gmail.com)
+- [telefone](telefone:+55(85)998219145)
+
 
 Obrigado por visitar meu perfil!
