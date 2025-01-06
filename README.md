@@ -21,7 +21,7 @@ Sou uma desenvolvedora apaixonada por tecnologia e inovação. Adoro aprender no
 ## Contato
 
 - [LinkedIn](https://www.linkedin.com/in/tharlles-dos-santos-camargos-507408279/)
-- tharllestsc@gmail.com
-- [telefone](telefone:+55(85)998219145)
+ tharllestsc@gmail.com
+ telefone:+55(85)998219145
 
 Obrigado por visitar meu perfil!
