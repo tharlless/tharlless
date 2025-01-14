@@ -9,14 +9,17 @@ Sou uma desenvolvedora apaixonada por tecnologia e inovação. Adoro aprender no
 ## Linguagens e Ferramentas
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Ruby](https://img.shields.io/badge/-Ruby-black?style=flat-square&logo=ruby)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+
+## Línguas
+
+- Português
+- Inglês
 
 ## Contato
 
